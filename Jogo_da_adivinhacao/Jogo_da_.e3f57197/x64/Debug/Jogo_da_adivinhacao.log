@@ -1,3 +1,0 @@
-﻿  Origem1.c
-C:\Users\55119\OneDrive\Área de Trabalho\Programação\Projetos em C\Jogo_da_adivinhacao\Origem1.c(10,20): warning C4244: 'inicializando': conversão de 'time_t' para 'int', possível perda de dados
-  Jogo_da_adivinhacao.vcxproj -> C:\Users\55119\OneDrive\Área de Trabalho\Programação\Projetos em C\Jogo_da_adivinhacao\x64\Debug\Jogo_da_adivinhacao.exe
